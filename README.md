@@ -1,2 +1,2 @@
 # ai-search_algo-java
-COMP3211 proj1
+HKUST COMP3211 proj1
