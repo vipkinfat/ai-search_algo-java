@@ -1,6 +1,6 @@
 # ai-search_algo-java
-Name: WONG, Kin Fat
-===============================
+
+Developer: WONG, Kin Fat
 
 HKUST COMP3211 proj1 generic type implementation of ai search algorithms.
 
